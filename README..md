@@ -1,24 +1,23 @@
-# [Project Title]
-> *One sentence. What did you analyze, build, or solve - and why does it matter?*
+# [Heart Disease project]
+This project delves in to determinants of heart disesase.
 
 ---
 
 ## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
 
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] SQL Analysis / Querying
-- [ ] Dashboard / Data Visualization
-- [ ] Data Pipeline / ETL
-- [ ] Predictive Modelling / Machine Learning
-- [ ] Data Cleaning / Wrangling
-- [ ] End-to-End (multiple of the above)
-- [ ] Other: ___________
+
+- [x] Excel  Analysis / Pivot table
+- [x] Dashboard / Data Visualization
+
+
+- [x] Data Cleaning / Wrangling
+
+
 
 ---
 
 ## Table of Contents
-1. [Project Overview](#1-project-overview)
+1. [This project analyzes clinical heart disease patient data to identify patterns, survival trends, and health indicators associated with mortality risk. The analysis was conducted using Excel, including data cleaning, pivot tables, and an interactive dashboard. The goal is to transform raw medical data into meaningful insights that support health understanding and decision-making.](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Project Scope & Tools](#3-project-scope--tools)
 4. [Repository Structure](#4-repository-structure)
