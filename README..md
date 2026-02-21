@@ -192,9 +192,8 @@ Chronic conditions may influence patient outcomes
 **[Fatma Ibraahim]**
 [Certified Data Aanalyst]
 
-- 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+
+- 📧 [Email -faadumoibraahim23@gmail.com]
 
 ---
 
