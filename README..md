@@ -3,7 +3,17 @@ This project delves in to determinants of heart disesase.
 
 ---
 
-## ⚙️ Project Type Flags
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="visuals/heart-disease-dashboard.png" alt="Heart Disease Dashboard" width="850"/>
+</p>
+
+<p align="center">
+  <em>Interactive Excel dashboard showing survival rates, mortality distribution, and clinical factor comparisons by age group.</em>
+</p>
+
+## Project Type Flags
 
 
 - [x] Excel  Analysis / Pivot table
